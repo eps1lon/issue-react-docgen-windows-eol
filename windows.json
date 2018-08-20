@@ -1,0 +1,12 @@
+{
+  "description": "A Text component\r\nwith a newline comment",
+  "displayName": "Text",
+  "methods": [],
+  "props": {
+    "value": {
+      "type": { "name": "string" },
+      "required": true,
+      "description": "the actual text\r\nand here is a newline comment"
+    }
+  }
+}
