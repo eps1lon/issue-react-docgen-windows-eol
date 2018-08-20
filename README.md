@@ -1,7 +1,7 @@
 # react-docgen-windows-eol
 
 ```bash
-git clone && cd
+git clone https://github.com/eps1lon/issue-react-docgen-windows-eol.git && cd issue-react-docgen-windows-eol
 yarn
 yarn start
 ```
